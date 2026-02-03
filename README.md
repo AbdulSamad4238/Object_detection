@@ -39,7 +39,7 @@ object-detection-yolov8/
 
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/object-detection-yolov8.git
+git clone https://github.com/AbdulSamad4238/object-detection-yolov8.git
 cd object-detection-yolov8
 
 2. (Optional) Create a virtual environment
