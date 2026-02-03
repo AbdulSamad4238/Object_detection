@@ -37,18 +37,6 @@ object-detection-yolov8/
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation
-1. Clone the repository
-git clone https://github.com/AbdulSamad4238/object-detection-yolov8.git
-cd object-detection-yolov8
-
-2. (Optional) Create a virtual environment
-python -m venv venv
-venv\Scripts\activate
-
-3. Install dependencies
-pip install -r requirements.txt
-
 ▶️ Usage
 
 Run the application using:
